@@ -1,0 +1,6 @@
+.input-daterange .input input {
+	text-align: left;
+}
+.input-daterange .input input:last-child {
+	border-radius: 4px;
+}
