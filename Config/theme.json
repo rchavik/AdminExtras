@@ -1,0 +1,26 @@
+{
+	"name" : "AdminExtras",
+	"description" : "AdminExtras theme for Croogo",
+
+	"author" : "Rachman Chavik",
+	"authorEmail" : "oss@xintesa.com",
+
+	"adminOnly": "true",
+
+	"menus" : [
+		"main",
+		"footer"
+	],
+
+	"regions" : [
+		"right"
+	],
+
+	"settings" : {
+		"css" : {
+			"container" : "container-fluid",
+			"row" : "row-fluid",
+			"tableClass" : "table table-stripped"
+		}
+	}
+}
