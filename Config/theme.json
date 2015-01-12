@@ -21,6 +21,15 @@
 			"container" : "container-fluid",
 			"row" : "row-fluid",
 			"tableClass" : "table table-stripped"
+		},
+		"prefixes": {
+			"admin": {
+				"helpers": {
+					"AdminExtras": {
+						"className": "AdminExtras"
+					}
+				}
+			}
 		}
 	}
 }

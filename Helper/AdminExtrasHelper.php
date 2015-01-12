@@ -2,7 +2,7 @@
 
 App::uses('AppHelper', 'View/Helper');
 
-class CustomHelper extends AppHelper {
+class AdminExtrasHelper extends AppHelper {
 
 	public $helpers = array(
 		'Html',
